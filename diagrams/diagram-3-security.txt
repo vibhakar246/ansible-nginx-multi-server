@@ -1,0 +1,9 @@
+Port 22  -> SSH (restricted)
+Port 80  -> HTTP (public)
+SSH Key  -> No password login
+1~Port 22  -> SSH (restricted)
+Port 80  -> HTTP (public)
+SSH Key  -> No password login
+1~Port 22  -> SSH (restricted)
+Port 80  -> HTTP (public)
+SSH Key  -> No password login

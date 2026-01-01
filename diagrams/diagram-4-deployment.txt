@@ -1,0 +1,7 @@
+index.html
+   |
+Ansible copy module
+   |
+/var/www/html/index.html
+   |
+Nginx serves page

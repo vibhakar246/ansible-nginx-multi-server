@@ -1,0 +1,4 @@
+User -> Ansible Playbook
+     -> Inventory
+     -> SSH Key
+     -> Execute tasks on all servers

@@ -1,0 +1,8 @@
+[WSL / Ansible Master]
+        |
+        | SSH
+        |
+ --------------------------------
+ |        |        |
+Server1  Server2  Server3
+Nginx    Nginx    Nginx
